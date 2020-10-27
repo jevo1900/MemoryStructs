@@ -2,7 +2,6 @@
  * To change this template, choose Tools | Templates
  * and open the template in the editor.
  */
-package run;
 
 import java.util.Arrays;
 import java.util.Collection;
